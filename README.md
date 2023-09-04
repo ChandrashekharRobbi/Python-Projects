@@ -1,6 +1,6 @@
 ## 🛠️ Coding Companion: Your Suite of Python Functions 🚀
 
-Welcome to the ultimate toolset crafted by `Chandrashekhar Robbi`, designed to elevate your coding journey. From automating Git commits to crafting eloquent markdowns for LeetCode problems, it's all here. Dive in!
+Welcome to the ultimate toolset crafted by Me i.e `Chandrashekhar Robbi`, designed to elevate your coding journey. From automating Git commits to crafting eloquent markdowns for LeetCode problems, it's all here. Dive in!
 
 ### 🌠 **At a Glance**:
 <details>
