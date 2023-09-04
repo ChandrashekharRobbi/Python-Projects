@@ -38,7 +38,8 @@ Welcome to the ultimate toolset crafted by Me i.e `Chandrashekhar Robbi`, design
   - It currently uses basic rules for commit messages. Adjust if you need something specific.
   - It ignores 'Untitled.ipynb' files.
 
-
+Screenshot of the logs:
+![image](https://github.com/ChandrashekharRobbi/GFG-DSA/assets/91750738/0ad5d7bc-252f-47a2-ba34-69f03059da19)
 ---
 </details>
 
