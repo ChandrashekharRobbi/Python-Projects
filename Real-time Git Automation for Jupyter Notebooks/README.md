@@ -1,6 +1,3 @@
-Here's a comprehensive description of the provided script for GitHub, including the use of emojis:
-
----
 
 ## 📌 AutoGit: Automatic Git Committer and Pusher for Dynamic Development! 🚀
 
