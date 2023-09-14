@@ -2,6 +2,14 @@
 
 Developed by Chandrashekhar Robbi 😎, the `LeetFunction` class is an advanced Jupyter Notebook tool designed to simplify and enhance the experience of solving problems on LeetCode directly within your notebooks.
 
+<details>
+
+  <summary><h2>👈🏻📷🎈 Quick Demo Video </h2></summary>
+
+  
+https://github.com/ChandrashekharRobbi/helper-functions/assets/91750738/8c11b5ef-16fd-4f0a-8575-16af1e38c505
+</details>
+
 ### 🌟 Features:
 
 1. **Dynamic Markdown Generation**: Instantly get a markdown version of the problem's content. This includes the problem description, images, and test cases.
@@ -16,9 +24,9 @@ Developed by Chandrashekhar Robbi 😎, the `LeetFunction` class is an advanced 
 
 6. **IPython Notebook Cell Management**: Functions to delete Jupyter notebook cells, either the current or the previous one, allowing for seamless notebook operations.
 
-### Quick Demo Video
 
-https://github.com/ChandrashekharRobbi/helper-functions/assets/91750738/8c11b5ef-16fd-4f0a-8575-16af1e38c505
+
+
 ### 🛠 Core Functionalities:
 
 - `new(s, link=None)`: Accepts the problem name as a string. It generates a markdown format of the problem description, automatically opens the problem in a browser tab, and creates a comment for the problem.
