@@ -47,9 +47,6 @@ Ideal for developers working in Jupyter notebooks or other iterative development
 
 Ensure you're in the correct directory (where the repository is initialized) before running the script. Always review automatically generated commits occasionally to ensure they convey meaningful information about the changes.
 
----
-
-This description provides a comprehensive overview of the script, its functionalities, and its use-case. Adjust as necessary for your audience on GitHub!
 
 Screenshot of the logs:
 ![image](https://github.com/ChandrashekharRobbi/GFG-DSA/assets/91750738/0ad5d7bc-252f-47a2-ba34-69f03059da19)
