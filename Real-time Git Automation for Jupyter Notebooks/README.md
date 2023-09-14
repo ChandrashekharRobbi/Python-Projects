@@ -1,7 +1,7 @@
 
 ## 📌 AutoGit: Automatic Git Committer and Pusher for Dynamic Development! 🚀
 
-Developed by Chandrashekhar Robbi 😎, the `AutoGit` is designed to watch for file changes in your directory, automatically generating git commit messages based on the changes, and pushing them to the repository. It's particularly useful when working on iterative development where you'd like commits to be automatically generated and pushed based on the specific changes you make.
+Developed by [Chandrashekhar Robbi](https://linktr.ee/crobbi) 😎, the `AutoGit` is designed to watch for file changes in your directory, automatically generating git commit messages based on the changes, and pushing them to the repository. It's particularly useful when working on iterative development where you'd like commits to be automatically generated and pushed based on the specific changes you make.
 
 ### 🌟 Features:
 
