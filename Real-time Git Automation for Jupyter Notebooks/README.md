@@ -3,6 +3,18 @@
 
 Developed by [Chandrashekhar Robbi](https://linktr.ee/crobbi) 😎, the `AutoGit` is designed to watch for file changes in your directory, automatically generating git commit messages based on the changes, and pushing them to the repository. It's particularly useful when working on iterative development where you'd like commits to be automatically generated and pushed based on the specific changes you make.
 
+<details>
+
+  <summary><h2>👈🏻📷 Quick Demo</h2></summary>
+
+  
+
+https://github.com/ChandrashekharRobbi/Python-Projects/assets/91750738/6244d89c-4f8a-42f9-ad57-ecc2729e02a1
+
+
+</details>
+
+
 ### 🌟 Features:
 
 1. **File Monitoring**: Monitors a specific directory for any file modifications, creations, etc.
