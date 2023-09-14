@@ -1,6 +1,6 @@
 ## 📌 LeetFunction: Enhance Your LeetCode Experience in Jupyter Notebooks! 🚀
 
-Developed by Chandrashekhar Robbi 😎, the `LeetFunction` class is an advanced Jupyter Notebook tool designed to simplify and enhance the experience of solving problems on LeetCode directly within your notebooks.
+Developed by [Chandrashekhar Robbi](https://linktr.ee/crobbi) 😎, the `LeetFunction` class is an advanced Jupyter Notebook tool designed to simplify and enhance the experience of solving problems on LeetCode directly within your notebooks.
 
 <details>
 
