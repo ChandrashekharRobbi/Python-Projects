@@ -2,6 +2,8 @@
 
 Welcome to the ultimate toolset crafted by Me i.e `Chandrashekhar Robbi`, designed to elevate your coding journey. From automating Git commits to crafting eloquent markdowns for LeetCode problems, it's all here. Dive in!
 
+
+> Toggle to know more about each function 😊
 ### 🌠 **At a Glance**:
 <details>
   <summary>👀 Watcher Function: Keep tabs on your code directory and auto-commit to Git without breaking a sweat.</summary>
@@ -152,7 +154,7 @@ https://github.com/ChandrashekharRobbi/helper-functions/assets/91750738/8c11b5ef
 ---
 </details>
 
-> Toggle to know more about each function 😊
+
 
 
 ### 🎯 **Why Use It?**:
